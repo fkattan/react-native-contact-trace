@@ -1,4 +1,5 @@
 # react-native-contact-trace
+react-native wrap for Google / Apple contact trace upcoming API
 
 ## Getting started
 
